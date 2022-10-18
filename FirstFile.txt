@@ -3,3 +3,4 @@ My Name is Tavva Pavan Kumar
 will meet you in evening
 commit from git 
 fron vs code
+push from git to vs

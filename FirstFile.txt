@@ -4,3 +4,4 @@ will meet you in evening
 commit from git 
 fron vs code
 push from git to vs
+from vs code to git-2
